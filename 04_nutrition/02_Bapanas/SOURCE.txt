@@ -1,0 +1,6 @@
+URL: https://badanpangan.go.id/tabel-komposisi-pangan-segar-indonesia
+Publisher: Direktorat Perumusan Standar Keamanan dan Mutu Pangan, Badan Pangan Nasional (Bapanas)
+Dataset/table name: Tabel Komposisi Pangan Segar Indonesia (TKPSI)
+Download date: 2026-09-27
+Original filename: Tabel_Komposisi_Pangan_Segar_Indonesia.xlsx (beserta 64 file Excel per komoditas: Beras.xlsx, Tepung_Terigu.xlsx, dll. yang diekspor langsung via fungsi resmi SheetJS web Badan Pangan Nasional)
+Webpage snapshot: page.html

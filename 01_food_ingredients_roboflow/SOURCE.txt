@@ -1,0 +1,7 @@
+URL: https://universe.roboflow.com/food-recipe-ingredient-images-0gnku/food-ingredients-dataset
+Dataset name: FOOD-INGREDIENTS dataset
+License: CC BY 4.0
+Download date: 2026-09-27
+Selected version: Latest Public Version
+Format: YOLOv8 (ZIP with annotations and data.yaml)
+Status: Pending user manual download / Roboflow login (Roboflow Universe requires an authenticated account or API key)

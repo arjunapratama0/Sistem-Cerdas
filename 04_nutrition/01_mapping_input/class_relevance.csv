@@ -1,0 +1,203 @@
+canonical_candidate,food_group,relevance,reason
+10,Unknown,EXCLUDE,Unknown; not a recognizable food item or too vague
+almond,Kacang,MEDIUM,Kacang; relevant but less common in daily meals
+apple,Buah,HIGH,Buah; directly relevant to daily nutrition education
+apricot,Buah,HIGH,Buah; directly relevant to daily nutrition education
+artichoke,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+ash gourd  kubhindo,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+asparagus,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+asparagus  kurilo,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+avocado,Buah,HIGH,Buah; directly relevant to daily nutrition education
+bacon,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+bakso,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+bamboo shoots,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+bamboo shoots  tama,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+banana,Buah,HIGH,Buah; directly relevant to daily nutrition education
+bean sprouts,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+beans,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+beaten rice  chiura,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+beef,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+beetroot,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+bethu ko saag,Sayuran Daun,LOW,Sayuran Daun; not primary nutritional focus
+bika ambon,Jajanan,LOW,Jajanan; not primary nutritional focus
+biscuit,Dessert,LOW,Dessert; not primary nutritional focus
+bitter gourd,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+black beans,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+black lentils,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+blueberry,Buah,HIGH,Buah; directly relevant to daily nutrition education
+bottle gourd  lauka,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+bread,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+broad beans  bakullo,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+broccoli,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+buff meat,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+butter,Susu/Dairy,MEDIUM,Susu/Dairy; relevant but less common in daily meals
+cabbage,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+cake,Dessert,LOW,Dessert; not primary nutritional focus
+candy,Dessert,LOW,Dessert; not primary nutritional focus
+carrot,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+cashew,Kacang,MEDIUM,Kacang; relevant but less common in daily meals
+cassava  ghar tarul,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+cauliflower,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+celery stick,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+chayote iskus,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+cheese,Susu/Dairy,MEDIUM,Susu/Dairy; relevant but less common in daily meals
+cheese butter,Susu/Dairy,MEDIUM,Susu/Dairy; relevant but less common in daily meals
+cherry,Buah,HIGH,Buah; directly relevant to daily nutrition education
+chicken,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+chicken duck,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+chicken gizzards,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+chickpeas,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+chili,Bumbu/Rempah,MEDIUM,Bumbu/Rempah; relevant but less common in daily meals
+chili pepper  khursani,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+chili powder,Bumbu/Rempah,MEDIUM,Bumbu/Rempah; relevant but less common in daily meals
+chocolate,Dessert,LOW,Dessert; not primary nutritional focus
+chowmein noodles,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+cilantro mint,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+cinnamon,Bumbu/Rempah,MEDIUM,Bumbu/Rempah; relevant but less common in daily meals
+coffee,Minuman,LOW,Minuman; not primary nutritional focus
+coriander  dhaniya,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+corn,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+cornflakec,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+crab,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+cucumber,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+dadar gulung,Jajanan,LOW,Jajanan; not primary nutritional focus
+date,Buah,HIGH,Buah; directly relevant to daily nutrition education
+dried cranberries,Buah Olahan,LOW,Buah Olahan; not primary nutritional focus
+egg,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+egg tart,Dessert,LOW,Dessert; not primary nutritional focus
+eggplant,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+enoki mushroom,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+farsi ko munta,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+fiddlehead ferns  niguro,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+fig,Buah,HIGH,Buah; directly relevant to daily nutrition education
+fish,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+french beans,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+french fries,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+fried meat,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+garden cress chamsur ko saag,Sayuran Daun,LOW,Sayuran Daun; not primary nutritional focus
+garden peas,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+garlic,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+ginger,Bumbu/Rempah,MEDIUM,Bumbu/Rempah; relevant but less common in daily meals
+grape,Buah,HIGH,Buah; directly relevant to daily nutrition education
+green beans,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+green brinjal,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+green lentils,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+green mint  pudina,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+green peas,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+green soyabean  hariyo bhatmas,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+gundruk,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+ham,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+hamburg,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+hanamaki baozi,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+ice,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+ice cream,Dessert,LOW,Dessert; not primary nutritional focus
+jack fruit,Buah,HIGH,Buah; directly relevant to daily nutrition education
+juice,Minuman,LOW,Minuman; not primary nutritional focus
+kelp,Rumput Laut,LOW,Rumput Laut; not primary nutritional focus
+ketchup,Bumbu,LOW,Bumbu; not primary nutritional focus
+kimchi,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+king oyster mushroom,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+kiwi,Buah,HIGH,Buah; directly relevant to daily nutrition education
+kue cubit,Jajanan,LOW,Jajanan; not primary nutritional focus
+lamb,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+lapsi  nepali hog plum,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+lemon,Buah,HIGH,Buah; directly relevant to daily nutrition education
+lemon  nimbu,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+lettuce,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+lime  kagati,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+long beans  bodi,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+mango,Buah,HIGH,Buah; directly relevant to daily nutrition education
+masyaura,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+mayonnaise,Bumbu,LOW,Bumbu; not primary nutritional focus
+melon,Buah,HIGH,Buah; directly relevant to daily nutrition education
+milk,Susu/Dairy,MEDIUM,Susu/Dairy; relevant but less common in daily meals
+milkshake,Minuman,LOW,Minuman; not primary nutritional focus
+minced meat,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+moringa leaves  sajyun ko munta,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+mushroom,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+mutton,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+nasi goreng,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+noodle,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+noodles,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+nutrela  soya chunks,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+okra,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+okra  bhindi,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+olive oil,Minyak,LOW,Minyak; not primary nutritional focus
+olives,Buah,HIGH,Buah; directly relevant to daily nutrition education
+onion,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+orange,Buah,HIGH,Buah; directly relevant to daily nutrition education
+other ingredients,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+oyster mushroom,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+palak  indian spinach,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+palungo  nepali spinach,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+paneer,Susu/Dairy,MEDIUM,Susu/Dairy; relevant but less common in daily meals
+papaya,Buah,HIGH,Buah; directly relevant to daily nutrition education
+pasta,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+pea,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+peach,Buah,HIGH,Buah; directly relevant to daily nutrition education
+peanut,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+pear,Buah,HIGH,Buah; directly relevant to daily nutrition education
+pepes ikan,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+pepper,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+pie,Dessert,LOW,Dessert; not primary nutritional focus
+pineapple,Buah,HIGH,Buah; directly relevant to daily nutrition education
+pizza,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+pointed gourd  chuche karela,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+popcorn,Snack,LOW,Snack; not primary nutritional focus
+pork,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+potato,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+pudding,Dessert,LOW,Dessert; not primary nutritional focus
+pumpkin,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+pumpkin  farsi,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+putu ayu,Jajanan,LOW,Jajanan; not primary nutritional focus
+radish,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+rahar ko daal,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+rape,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+raspberry,Buah,HIGH,Buah; directly relevant to daily nutrition education
+rayo ko saag,Sayuran Daun,LOW,Sayuran Daun; not primary nutritional focus
+red beans,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+red lentils,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+rendang,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+rice,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+rice  chamal,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+sajjyun  moringa drumsticks,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+salad,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+salt,Bumbu,LOW,Bumbu; not primary nutritional focus
+sate ayam,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+sauce,Bumbu,LOW,Bumbu; not primary nutritional focus
+sausage,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+seaweed,Rumput Laut,LOW,Rumput Laut; not primary nutritional focus
+shellfish,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+shiitake,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+shrimp,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+snake gourd  chichindo,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+snow peas,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+soup,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+soy,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+soy sauce,Bumbu,LOW,Bumbu; not primary nutritional focus
+soyabean  bhatmas,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+sponge gourd  ghiraula,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+spring onion,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+steak,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+stinging nettle  sisnu,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+strawberry,Buah,HIGH,Buah; directly relevant to daily nutrition education
+sugar,Bumbu,LOW,Bumbu; not primary nutritional focus
+sweet potato  suthuni,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+taro leaves  karkalo,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+taro root pidalu,Umbi,MEDIUM,Umbi; relevant but less common in daily meals
+tea,Minuman,LOW,Minuman; not primary nutritional focus
+telur balado,Protein Hewani,HIGH,Protein Hewani; directly relevant to daily nutrition education
+thukpa noodles,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+tofu,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education
+tomato,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+tori ko saag,Sayuran Daun,LOW,Sayuran Daun; not primary nutritional focus
+tree tomato  rukh tamatar,Lainnya,EXCLUDE,Lainnya; not a recognizable food item or too vague
+turnip,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+walnut,Kacang,MEDIUM,Kacang; relevant but less common in daily meals
+watermelon,Buah,HIGH,Buah; directly relevant to daily nutrition education
+wheat,Karbohidrat,HIGH,Karbohidrat; directly relevant to daily nutrition education
+white button mushroom,Jamur,MEDIUM,Jamur; relevant but less common in daily meals
+white radish,Sayuran,HIGH,Sayuran; directly relevant to daily nutrition education
+wine,Minuman,LOW,Minuman; not primary nutritional focus
+wonton dumplings,Makanan Olahan,LOW,Makanan Olahan; not primary nutritional focus
+yellow lentils,Protein Nabati,HIGH,Protein Nabati; directly relevant to daily nutrition education

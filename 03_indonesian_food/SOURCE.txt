@@ -1,0 +1,7 @@
+URL: https://universe.roboflow.com/aku-yolo/deteksi-makanan-indonesia-spmyy
+Dataset name: Deteksi Makanan Indonesia
+License: CC BY 4.0 / Open Source
+Download date: 2026-09-27
+Selected version: Latest Public Version
+Format: YOLOv8 (ZIP with annotations and data.yaml)
+Status: Pending user manual download / Roboflow login (Roboflow Universe requires an authenticated account or API key)

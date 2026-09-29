@@ -1,0 +1,8 @@
+original repository: https://github.com/LARC-CMU-SMU/FoodSeg103-Benchmark-v1
+official download URL (Status 502 Bad Gateway): https://research.larc.smu.edu.sg/downloads/datarepo/FoodSeg103.zip
+actual download URL used: https://www.dropbox.com/scl/fi/nikp3qykx02qefhjwjrm4/foodseg103-DatasetNinja.tar?rlkey=4mf614lgssjdi9qmtw0ivcq41&dl=1
+license: Apache 2.0
+download date: 2026-09-27
+file size: 1,323,345,920 bytes (1.23 GB)
+filename: foodseg103-DatasetNinja.tar
+format: Semantic Segmentation benchmark (Supervisely format containing test/train images and annotations)

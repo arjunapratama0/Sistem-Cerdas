@@ -1,0 +1,76 @@
+food_id,canonical_food_name,canonical_food_form,food_group,energy_kcal,protein_g,fat_g,carbohydrate_g,fiber_g,calcium_mg,phosphorus_mg,iron_mg,sodium_mg,potassium_mg,zinc_mg,vitamin_a_retinol_mcg,vitamin_b1_mg,vitamin_b2_mg,niacin_mg,vitamin_c_mg,bdd_percent,basis_amount,basis_unit,basis_description,energy_calculated_kcal,energy_source_kcal,energy_difference_kcal,source_name,source_provider,source_url,source_record_id,source_year,match_status,mapping_note,source_selection_reason
+NV0001,Almond,segar,Kacang-kacangan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0003,Aprikot,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0004,Asparagus,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0005,Alpukat,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0006,Rebung,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0009,Blueberry,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0010,Roti Putih,olahan,Serealia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Processed/cooked food; TKPI 2019 data needed but AndraFarm requires JS rendering; Bapanas covers fresh foods only,No accessible structured source for this processed food
+NV0011,Brokoli,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0014,Kacang Mete,segar,Kacang-kacangan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0016,Seledri,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0017,Ceri,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0019,Kepiting,segar,Seafood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0021,Kurma,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0024,Jamur Enoki,segar,Jamur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0025,Buah Ara,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0026,Ikan,segar,Ikan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0029,Jahe,segar,Rempah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0031,Kacang Hijau,segar,Kacang-kacangan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0032,Rumput Laut Kelp,segar,Rumput Laut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0033,Jamur Raja Tiram,segar,Jamur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0034,Kiwi,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0035,Daging Domba,segar,Daging,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0036,Jeruk Lemon,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0041,Mi,olahan,Serealia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Processed/cooked food; TKPI 2019 data needed but AndraFarm requires JS rendering; Bapanas covers fresh foods only,No accessible structured source for this processed food
+NV0042,Okra,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0046,Pasta,olahan,Serealia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Processed/cooked food; TKPI 2019 data needed but AndraFarm requires JS rendering; Bapanas covers fresh foods only,No accessible structured source for this processed food
+NV0047,Persik,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0049,Pir,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0050,Paprika,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0052,Daging Babi,segar,Daging,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0054,Labu Kuning,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0056,Raspberry,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0057,Kacang Merah,segar,Kacang-kacangan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0058,Nasi,matang,Serealia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Processed/cooked food; TKPI 2019 data needed but AndraFarm requires JS rendering; Bapanas covers fresh foods only,No accessible structured source for this processed food
+NV0059,Rumput Laut,segar,Rumput Laut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0060,Kerang,segar,Seafood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0061,Jamur Shiitake,segar,Jamur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0063,Kapri,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0065,Daun Bawang,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0066,Stroberi,segar,Buah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0067,Tahu,olahan,Olahan Kedelai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Processed/cooked food; TKPI 2019 data needed but AndraFarm requires JS rendering; Bapanas covers fresh foods only,No accessible structured source for this processed food
+NV0069,Walnut,segar,Kacang-kacangan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0071,Jamur Kancing,segar,Jamur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0072,Lobak,segar,Sayuran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NO_VALID_MATCH,Food not found in Bapanas dataset; not a standard Indonesian food or requires TKPI lookup,Food not available in accessible nutrition databases
+NV0073,biscuit,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0074,cake,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0075,candy,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0076,cheese butter,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0077,chicken duck,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0078,chocolate,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0079,cilantro mint,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0080,coffee,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0081,dried cranberries,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0082,egg tart,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0083,french fries,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0084,fried meat,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0085,hamburg,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0086,hanamaki baozi,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0087,ice cream,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0088,juice,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0089,milkshake,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0090,olives,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0091,other ingredients,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0092,pie,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0093,pizza,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0094,popcorn,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0095,pudding,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0096,salad,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0097,sauce,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0098,sausage,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0099,soup,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0100,steak,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0101,tea,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0102,wine,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,
+NV0103,wonton dumplings,ambiguous,AMBIGUOUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AMBIGUOUS,composite/mixed/vague label,

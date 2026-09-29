@@ -1,0 +1,37 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Large archive files (exceeding GitHub limits)
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Exclude large computer vision image datasets (tracked locally or via external mirrors)
+# Retain SOURCE.txt in each folder for dataset provenance
+01_food_ingredients_roboflow/*
+!01_food_ingredients_roboflow/SOURCE.txt
+
+02_foodseg103/*
+!02_foodseg103/SOURCE.txt
+
+03_indonesian_food/*
+!03_indonesian_food/SOURCE.txt
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,88 @@
+original_label,dataset,problem_type,severity,recommendation,notes
+Akabare Khursani,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Apple,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 1 instances
+Beans,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: bean/pea variants
+Bethu ko Saag,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Brinjal,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: eggplant variants
+Chili Powder,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Chowmein Noodles,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: noodle variants
+Cinnamon,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Farsi ko Munta,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Fiddlehead Ferns -Niguro-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Fish,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 6 instances
+Garden Peas,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: bean/pea variants
+Garden cress-Chamsur ko saag-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Ginger,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+Green Brinjal,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: eggplant variants
+Green Peas,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: bean/pea variants
+Green Soyabean -Hariyo Bhatmas-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Gundruk,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Ice,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+Ice,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Ketchup,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Lapsi -Nepali Hog Plum-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Lemon -Nimbu-,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: citrus overlap
+Lime -Kagati-,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: citrus overlap
+Long Beans -Bodi-,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 6 instances
+Long Beans -Bodi-,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: bean/pea variants
+Masyaura,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Moringa Leaves -Sajyun ko Munta-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Nutrela -Soya Chunks-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Olive Oil,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Orange,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 3 instances
+Palak -Indian Spinach-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Palak -Indian Spinach-,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: spinach variants
+Palungo -Nepali Spinach-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Palungo -Nepali Spinach-,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: spinach variants
+Pea,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 4 instances
+Pea,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: bean/pea variants
+Pear,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 1 instances
+Rahar ko Daal,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Rayo ko Saag,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Sajjyun -Moringa Drumsticks-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Salt,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Soy Sauce,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Stinging Nettle -Sisnu-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Sugar,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+Taro Leaves -Karkalo-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Thukpa Noodles,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: noodle variants
+Tori ko Saag,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Tree Tomato -Rukh Tamatar-,food_ingredients_roboflow,CULTURE_SPECIFIC,LOW,REVIEW,Nepali-specific food name; limited audience relevance
+Wallnut,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+Water Melon,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+Wheat,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 1 instances
+Yellow Lentils,food_ingredients_roboflow,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 8 instances
+mayonnaise,food_ingredients_roboflow,NOT_FOOD_ITEM,LOW,EXCLUDE,"Condiment/ingredient, not a food item to recognize"
+noodle,food_ingredients_roboflow,SEMANTIC_OVERLAP,MEDIUM,REVIEW,Overlaps with: noodle variants
+bamboo shoots,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 6 instances
+cheese butter,foodseg103,AMBIGUOUS_NAME,HIGH,EXCLUDE,Name combines multiple foods or is meaningless
+chicken duck,foodseg103,AMBIGUOUS_NAME,HIGH,EXCLUDE,Name combines multiple foods or is meaningless
+cilantro mint,foodseg103,AMBIGUOUS_NAME,HIGH,EXCLUDE,Name combines multiple foods or is meaningless
+coffee,foodseg103,BEVERAGE,LOW,REVIEW,Beverage; nutrition varies by preparation
+date,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+egg tart,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 4 instances
+enoki mushroom,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+hamburg,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 6 instances
+hamburg,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+juice,foodseg103,BEVERAGE,LOW,REVIEW,Beverage; nutrition varies by preparation
+kelp,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 3 instances
+milkshake,foodseg103,BEVERAGE,LOW,REVIEW,Beverage; nutrition varies by preparation
+other ingredients,foodseg103,AMBIGUOUS_NAME,HIGH,EXCLUDE,Name combines multiple foods or is meaningless
+oyster mushroom,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+peanut,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 9 instances
+pie,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+pizza,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+pudding,foodseg103,LOW_INSTANCE_COUNT,HIGH,REVIEW,Only 5 instances
+salad,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+sauce,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+soup,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+steak,foodseg103,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+tea,foodseg103,BEVERAGE,LOW,REVIEW,Beverage; nutrition varies by preparation
+wine,foodseg103,BEVERAGE,LOW,REVIEW,Beverage; nutrition varies by preparation
+10,indonesian_food,AMBIGUOUS_NAME,HIGH,EXCLUDE,Name combines multiple foods or is meaningless
+bakso,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+nasi_goreng,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+pepes_ikan,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+rendang,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+sate_ayam,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record
+telur_balado,indonesian_food,COMPOSITE_FOOD,MEDIUM,REVIEW,Multi-ingredient dish; hard to map to single nutrition record

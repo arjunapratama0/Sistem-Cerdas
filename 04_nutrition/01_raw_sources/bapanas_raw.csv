@@ -1,0 +1,65 @@
+bapanas_food_name,bapanas_source_file,water_pct,ash_pct,protein_pct,fat_pct,carbohydrate_total_pct,carbohydrate_available_pct,fiber_pct,iron_mg_per_100g,zinc_mg_per_100g,calcium_mg_per_100g
+Anggur Merah,Anggur_Merah.xlsx,81.28,0.19,0.33,0.04,18.16,14.23,3.93,,,
+Apel,Apel.xlsx,87.22,0.57,1.08,0.02,11.12,7.74,3.38,,,
+Bawang Merah,Bawang_Merah.xlsx,82.46,0.85,3.05,0.11,13.54,,,,,
+Bawang Putih,Bawang_Putih.xlsx,68.13,1.63,6.2,0.05,23.99,,,,,
+Bayam,Bayam.xlsx,90.9,0.22,2.11,0.55,6.23,1.72,4.51,,,
+Beras,Beras.xlsx,10.33,0.37,9.24,0.19,79.87,76.29,3.59,,,
+Beras Ketan,Beras_Ketan.xlsx,11.35,0.33,10.34,0.39,77.59,75.77,1.82,,,
+Buah Naga,Buah_Naga.xlsx,87.38,0.08,0.27,0.04,12.24,8.6,3.63,,,
+Buncis,Buncis.xlsx,93.4,0.69,1.41,0.22,4.29,1.44,2.85,,,
+Cabe Merah,Cabe_Merah.xlsx,77.24,1.26,5.4,0.25,15.86,,,,,
+Cabe Rawit,Cabe_Rawit.xlsx,79.15,1.47,3.35,0.98,15.06,,,,,
+Cumi,Cumi.xlsx,85.01,1.07,12.68,0.38,0.86,,,0.61,0.91,27.18
+Daging Ayam,Daging_Ayam.xlsx,69.8,1.39,21.04,3.8,3.97,,,1.06,0.71,10.03
+Daging Ayam Kampung,Daging_Ayam_Kampung.xlsx,71.41,1.29,21.94,1.34,4.01,,,1.23,2.11,9.88
+Daging Sapi,Daging_Sapi.xlsx,71.87,1.37,22.51,0.3,3.95,,,1.3,2.74,8.86
+Daun Ketela Pohon,Daun_Ketela_Pohon.xlsx,78.29,0.37,8.05,5.41,7.87,,,,,
+Ikan Bandeng,Ikan_Bandeng.xlsx,69.75,1.33,21.59,5.59,1.74,,,0.72,0.57,42.22
+Ikan Kembung,Ikan_Kembung.xlsx,71.27,1.45,22.16,4.18,0.94,,,1.25,0.8,23.29
+Ikan Lele,Ikan_Lele.xlsx,69.06,1.6,16.17,9.95,3.22,,,0.63,0.79,17.25
+Ikan Mujair,Ikan_Mujair.xlsx,78.11,1.05,18.46,0.35,2.04,,,0.43,0.44,15.31
+Ikan Tongkol,Ikan_Tongkol.xlsx,70.88,1.53,23.91,0.42,3.26,,,2.66,0.8,31.63
+Ikan Tuna,Ikan_Tuna.xlsx,70.62,1.42,25.76,0.27,1.93,,,1.7,0.47,9.65
+Jagung Pipil,Jagung_Pipil.xlsx,10.95,1.26,11.13,3.52,73.14,58.76,14.38,,,
+Jagung Segar,Jagung_Segar.xlsx,78.1,0.25,4.08,2.47,15.1,9.86,5.24,,,
+Jambu Biji,Jambu_Biji.xlsx,88.6,0.07,0.19,0.03,11.11,6.08,5.02,,,
+Jamur Tiram,Jamur_Tiram.xlsx,93.69,0.05,0.22,0.14,5.9,3.26,2.64,,,
+Jeruk,Jeruk.xlsx,86.81,0.52,1.51,0.48,10.69,7.97,2.72,,,
+Kacang Kedelai,Kacang_Kedelai.xlsx,9.06,6.38,33.22,13.26,38.08,9.2,28.88,,,
+Kacang Panjang,Kacang_Panjang.xlsx,89.65,0.06,1.46,0.14,8.7,3.79,4.91,,,
+Kacang Tanah,Kacang_Tanah.xlsx,4.99,2.88,30.59,39.83,21.7,6.09,15.62,,,
+Kangkung,Kangkung.xlsx,93.3,0.1,2.19,0.25,4.15,,,,,
+Kelapa,Kelapa.xlsx,50.06,0.87,5.01,38.41,5.65,,,,,
+Kembang Kol,Kembang_Kol.xlsx,92.83,0.07,0.23,0.21,6.67,4.0,2.66,,,
+Kentang,Kentang.xlsx,79.46,1.08,2.05,0.02,17.39,15.51,1.87,,,
+Kubis,Kubis.xlsx,94.77,0.03,0.11,0.04,5.05,2.33,2.72,,,
+Labu Siam,Labu_Siam.xlsx,94.78,0.03,0.08,0.01,5.1,3.63,1.47,,,
+Mangga,Mangga.xlsx,88.53,0.54,2.66,1.37,6.9,4.18,2.73,,,
+Melon,Melon.xlsx,93.12,0.03,0.11,0.02,6.72,5.44,1.28,,,
+Mentimun,Mentimun.xlsx,96.29,0.02,0.07,0.04,3.59,2.74,0.85,,,
+Minyak Goreng,Minyak_Goreng.xlsx,0.0,0.0,0.0,99.94,0.06,,0.0,,,
+Minyak Kelapa,Minyak_Kelapa.xlsx,0.0,0.0,0.0,99.91,0.09,,0.0,,,
+Nanas Madu,Nanas_Madu.xlsx,87.17,0.04,0.26,0.08,12.45,10.16,2.3,,,
+Pakcoy,Pakcoy.xlsx,93.98,0.07,0.16,0.25,5.55,3.46,2.09,,,
+Pepaya,Pepaya.xlsx,88.48,0.55,0.97,0.02,9.98,7.5,2.48,,,
+Pisang,Pisang.xlsx,73.84,1.2,1.68,0.03,23.25,19.47,3.78,,,
+Sagu,Sagu.xlsx,13.5,0.36,0.32,0.25,85.58,83.13,2.45,,,
+Salak,Salak.xlsx,80.28,0.84,1.51,0.52,16.85,13.11,3.74,,,
+Sawi Hijau,Sawi_Hijau.xlsx,91.55,1.31,3.09,0.59,3.46,1.52,1.94,,,
+Sawi Putih,Sawi_Putih.xlsx,95.92,0.03,0.1,0.04,3.91,3.29,0.61,,,
+Selada,Selada.xlsx,95.06,0.06,0.16,0.12,4.61,2.52,2.09,,,
+Semangka,Semangka.xlsx,94.01,0.19,0.99,0.11,4.69,3.15,1.54,,,
+Singkong,Singkong.xlsx,56.86,0.48,1.99,1.53,39.15,35.22,3.93,,,
+Susu Sapi Segar,Susu_Sapi_Segar.xlsx,87.19,0.64,3.39,3.41,5.36,,,0.29,0.35,102.05
+Talas,Talas.xlsx,68.0,0.46,4.91,0.17,26.47,19.64,6.83,,,
+Tauge,Tauge.xlsx,91.76,0.46,3.66,0.16,3.96,1.56,2.4,,,
+Telur Ayam,Telur_Ayam.xlsx,72.46,0.88,11.94,7.69,7.03,,,1.95,1.11,49.25
+Telur Ayam Kampung,Telur_Ayam_Kampung.xlsx,64.68,1.15,12.75,10.69,10.73,,,2.7,1.58,65.07
+Telur Puyuh,Telur_Puyuh.xlsx,61.44,1.11,13.0,11.24,13.21,,,3.23,1.58,61.71
+Tepung Terigu,Tepung_Terigu.xlsx,9.7,0.74,10.83,1.68,77.05,74.04,3.01,,,
+Terong,Terong.xlsx,92.44,0.71,1.13,0.02,5.7,1.96,3.75,,,
+Tomat,Tomat.xlsx,94.05,0.49,0.97,0.02,4.47,2.54,1.94,,,
+Ubi Jalar,Ubi_Jalar.xlsx,72.76,0.34,2.09,0.78,24.03,20.24,3.8,,,
+Udang,Udang.xlsx,77.21,1.1,18.93,0.24,2.53,,,0.56,1.11,107.14
+Wortel,Wortel.xlsx,90.66,0.09,0.16,0.05,9.04,5.57,3.48,,,

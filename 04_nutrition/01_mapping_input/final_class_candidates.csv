@@ -1,0 +1,24 @@
+final_candidate,food_group,source_dataset,original_labels,total_images,confidence,reason,nutrition_mapping_status
+rice,Karbohidrat,foodseg103,DS2:rice,670,MEDIUM,Karbohidrat pokok Indonesia; 670 instances; FoodSeg103,NOT_CHECKED
+potato,Karbohidrat,"food_ingredients_roboflow, foodseg103",DS1:Potato; DS2:potato,1677,HIGH,Karbohidrat umum; 1677 instances; 2 dataset cross-validated,NOT_CHECKED
+corn,Karbohidrat,"food_ingredients_roboflow, foodseg103",DS1:Corn; DS2:corn,657,HIGH,Sumber karbohidrat; 657 instances; 2 dataset,NOT_CHECKED
+bread,Karbohidrat,"food_ingredients_roboflow, foodseg103",DS1:Bread; DS2:bread,1584,HIGH,Karbohidrat olahan; 1584 instances; 2 dataset,NOT_CHECKED
+egg,Protein Hewani,"food_ingredients_roboflow, foodseg103",DS1:Egg; DS2:egg,1123,HIGH,Protein hewani paling umum; 1123 instances; 2 dataset,NOT_CHECKED
+fish,Protein Hewani,"food_ingredients_roboflow, foodseg103",DS1:Fish; DS2:fish,359,HIGH,Protein hewani utama; 359 instances; 2 dataset,NOT_CHECKED
+chicken,Protein Hewani,food_ingredients_roboflow,DS1:Chicken,26,LOW,Protein hewani terpenting; 26 instances; hanya DS1 tapi kritis untuk use case,NOT_CHECKED
+shrimp,Protein Hewani,foodseg103,DS2:shrimp,144,MEDIUM,Protein hewani/seafood; 144 instances; FoodSeg103,NOT_CHECKED
+tofu,Protein Nabati,"food_ingredients_roboflow, foodseg103",DS1:Tofu; DS2:tofu,86,MEDIUM,Protein nabati/olahan kedelai; 86 instances; 2 dataset; makanan Indonesia,NOT_CHECKED
+red beans,Protein Nabati,"food_ingredients_roboflow, foodseg103",DS1:Red Beans; DS2:red beans,164,HIGH,Protein nabati; 164 instances; 2 dataset,NOT_CHECKED
+carrot,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Carrot; DS2:carrot,1486,HIGH,Sayuran bergizi; 1486 instances; 2 dataset; kaya vitamin A,NOT_CHECKED
+tomato,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Tomato; DS2:tomato,1474,HIGH,Sayuran paling umum; 1474 instances; 2 dataset,NOT_CHECKED
+broccoli,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Broccoli; DS2:broccoli,1112,HIGH,Sayuran bergizi tinggi; 1112 instances; 2 dataset,NOT_CHECKED
+cabbage,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Cabbage; DS2:cabbage,472,HIGH,Sayuran umum Indonesia; 472 instances; 2 dataset,NOT_CHECKED
+cucumber,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Cucumber; DS2:cucumber,726,HIGH,Sayuran umum; 726 instances; 2 dataset,NOT_CHECKED
+onion,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Onion; DS2:onion,693,HIGH,Bumbu dapur utama; 693 instances; 2 dataset,NOT_CHECKED
+eggplant,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Brinjal; DS2:eggplant,338,HIGH,Sayuran umum (terong); 338 instances; 2 dataset,NOT_CHECKED
+cauliflower,Sayuran,"food_ingredients_roboflow, foodseg103",DS1:Cauliflower; DS2:cauliflower,288,HIGH,Sayuran bergizi; 288 instances; 2 dataset,NOT_CHECKED
+banana,Buah,"food_ingredients_roboflow, foodseg103",DS1:Banana; DS2:banana,357,HIGH,Buah paling umum Indonesia; 357 instances; 2 dataset,NOT_CHECKED
+apple,Buah,"food_ingredients_roboflow, foodseg103",DS1:Apple; DS2:apple,159,HIGH,Buah umum; 159 instances; 2 dataset,NOT_CHECKED
+orange,Buah,"food_ingredients_roboflow, foodseg103",DS1:Orange; DS2:orange,256,HIGH,Buah kaya vitamin C; 256 instances; 2 dataset,NOT_CHECKED
+watermelon,Buah,"food_ingredients_roboflow, foodseg103",DS1:Water Melon; DS2:watermelon,46,MEDIUM,Buah populer; 46 instances; 2 dataset,NOT_CHECKED
+mango,Buah,foodseg103,DS2:mango,55,MEDIUM,Buah tropis populer; 55 instances; FoodSeg103,NOT_CHECKED

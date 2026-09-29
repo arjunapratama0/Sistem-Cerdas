@@ -1,0 +1,104 @@
+dataset_source,original_label,canonical_food_name,canonical_food_form,food_group,preferred_source,source_record_id,match_status,mapping_note,source_selection_reason
+foodseg103,almond,Almond,segar,Kacang-kacangan,,,PENDING,canonical,
+foodseg103,apple,Apel,segar,Buah,BAPANAS_TKPSI,BAPANAS_Apel,EXACT,Bapanas: Apel; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,apricot,Aprikot,segar,Buah,,,PENDING,canonical,
+foodseg103,asparagus,Asparagus,segar,Sayuran,,,PENDING,canonical,
+foodseg103,avocado,Alpukat,segar,Buah,,,PENDING,canonical,
+foodseg103,bamboo shoots,Rebung,segar,Sayuran,,,PENDING,canonical,
+foodseg103,banana,Pisang,segar,Buah,BAPANAS_TKPSI,BAPANAS_Pisang,EXACT,Bapanas: Pisang; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,bean sprouts,Tauge,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Tauge,EXACT,Bapanas: Tauge; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,biscuit,biscuit,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,blueberry,Blueberry,segar,Buah,,,PENDING,canonical,
+foodseg103,bread,Roti Putih,olahan,Serealia,,,PENDING,canonical,
+foodseg103,broccoli,Brokoli,segar,Sayuran,,,PENDING,canonical,
+foodseg103,cabbage,Kubis,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Kubis,EXACT,Bapanas: Kubis; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,cake,cake,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,candy,candy,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,carrot,Wortel,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Wortel,EXACT,Bapanas: Wortel; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,cashew,Kacang Mete,segar,Kacang-kacangan,,,PENDING,canonical,
+foodseg103,cauliflower,Kembang Kol,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Kembang Kol,EXACT,Bapanas: Kembang Kol; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,celery stick,Seledri,segar,Sayuran,,,PENDING,canonical,
+foodseg103,cheese butter,cheese butter,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,cherry,Ceri,segar,Buah,,,PENDING,canonical,
+foodseg103,chicken duck,chicken duck,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,chocolate,chocolate,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,cilantro mint,cilantro mint,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,coffee,coffee,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,corn,Jagung,segar,Serealia,BAPANAS_TKPSI,BAPANAS_Jagung Segar,VALID_FORM_MATCH,Bapanas: Jagung Segar; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,crab,Kepiting,segar,Seafood,,,PENDING,canonical,
+foodseg103,cucumber,Mentimun,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Mentimun,EXACT,Bapanas: Mentimun; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,date,Kurma,segar,Buah,,,PENDING,canonical,
+foodseg103,dried cranberries,dried cranberries,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,egg,Telur Ayam,segar,Telur,BAPANAS_TKPSI,BAPANAS_Telur Ayam,EXACT,Bapanas: Telur Ayam; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,eggplant,Terong,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Terong,EXACT,Bapanas: Terong; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,egg tart,egg tart,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,enoki mushroom,Jamur Enoki,segar,Jamur,,,PENDING,canonical,
+foodseg103,fig,Buah Ara,segar,Buah,,,PENDING,canonical,
+foodseg103,fish,Ikan,segar,Ikan,,,PENDING,canonical,
+foodseg103,french beans,Buncis,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Buncis,EXACT,Bapanas: Buncis; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,french fries,french fries,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,fried meat,fried meat,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,garlic,Bawang Putih,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Bawang Putih,EXACT,Bapanas: Bawang Putih; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,ginger,Jahe,segar,Rempah,,,PENDING,canonical,
+foodseg103,grape,Anggur,segar,Buah,BAPANAS_TKPSI,BAPANAS_Anggur Merah,VALID_FORM_MATCH,Bapanas: Anggur Merah; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,green beans,Kacang Hijau,segar,Kacang-kacangan,,,PENDING,canonical,
+foodseg103,hamburg,hamburg,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,hanamaki baozi,hanamaki baozi,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,ice cream,ice cream,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,juice,juice,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,kelp,Rumput Laut Kelp,segar,Rumput Laut,,,PENDING,canonical,
+foodseg103,king oyster mushroom,Jamur Raja Tiram,segar,Jamur,,,PENDING,canonical,
+foodseg103,kiwi,Kiwi,segar,Buah,,,PENDING,canonical,
+foodseg103,lamb,Daging Domba,segar,Daging,,,PENDING,canonical,
+foodseg103,lemon,Jeruk Lemon,segar,Buah,,,PENDING,canonical,
+foodseg103,lettuce,Selada,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Selada,EXACT,Bapanas: Selada; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,mango,Mangga,segar,Buah,BAPANAS_TKPSI,BAPANAS_Mangga,EXACT,Bapanas: Mangga; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,melon,Melon,segar,Buah,BAPANAS_TKPSI,BAPANAS_Melon,EXACT,Bapanas: Melon; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,milk,Susu Sapi,segar,Susu,BAPANAS_TKPSI,BAPANAS_Susu Sapi Segar,VALID_FORM_MATCH,Bapanas: Susu Sapi Segar; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,milkshake,milkshake,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,noodles,Mi,olahan,Serealia,,,PENDING,canonical,
+foodseg103,okra,Okra,segar,Sayuran,,,PENDING,canonical,
+foodseg103,olives,olives,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,onion,Bawang Merah,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Bawang Merah,EXACT,Bapanas: Bawang Merah; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,orange,Jeruk,segar,Buah,BAPANAS_TKPSI,BAPANAS_Jeruk,EXACT,Bapanas: Jeruk; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,other ingredients,other ingredients,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,oyster mushroom,Jamur Tiram,segar,Jamur,BAPANAS_TKPSI,BAPANAS_Jamur Tiram,EXACT,Bapanas: Jamur Tiram; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,pasta,Pasta,olahan,Serealia,,,PENDING,canonical,
+foodseg103,peach,Persik,segar,Buah,,,PENDING,canonical,
+foodseg103,peanut,Kacang Tanah,segar,Kacang-kacangan,BAPANAS_TKPSI,BAPANAS_Kacang Tanah,EXACT,Bapanas: Kacang Tanah; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,pear,Pir,segar,Buah,,,PENDING,canonical,
+foodseg103,pepper,Paprika,segar,Sayuran,,,PENDING,canonical,
+foodseg103,pie,pie,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,pineapple,Nanas,segar,Buah,BAPANAS_TKPSI,BAPANAS_Nanas Madu,VALID_FORM_MATCH,Bapanas: Nanas Madu; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,pizza,pizza,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,popcorn,popcorn,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,pork,Daging Babi,segar,Daging,,,PENDING,canonical,
+foodseg103,potato,Kentang,segar,Umbi,BAPANAS_TKPSI,BAPANAS_Kentang,EXACT,Bapanas: Kentang; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,pudding,pudding,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,pumpkin,Labu Kuning,segar,Sayuran,,,PENDING,canonical,
+foodseg103,rape,Sawi,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Sawi Hijau,VALID_FORM_MATCH,Bapanas: Sawi Hijau; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,raspberry,Raspberry,segar,Buah,,,PENDING,canonical,
+foodseg103,red beans,Kacang Merah,segar,Kacang-kacangan,,,PENDING,canonical,
+foodseg103,rice,Nasi,matang,Serealia,,,PENDING,canonical,
+foodseg103,salad,salad,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,sauce,sauce,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,sausage,sausage,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,seaweed,Rumput Laut,segar,Rumput Laut,,,PENDING,canonical,
+foodseg103,shellfish,Kerang,segar,Seafood,,,PENDING,canonical,
+foodseg103,shiitake,Jamur Shiitake,segar,Jamur,,,PENDING,canonical,
+foodseg103,shrimp,Udang,segar,Udang,BAPANAS_TKPSI,BAPANAS_Udang,EXACT,Bapanas: Udang; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,snow peas,Kapri,segar,Sayuran,,,PENDING,canonical,
+foodseg103,soup,soup,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,soy,Kedelai,segar,Kacang-kacangan,BAPANAS_TKPSI,BAPANAS_Kacang Kedelai,VALID_FORM_MATCH,Bapanas: Kacang Kedelai; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,spring onion,Daun Bawang,segar,Sayuran,,,PENDING,canonical,
+foodseg103,steak,steak,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,strawberry,Stroberi,segar,Buah,,,PENDING,canonical,
+foodseg103,tea,tea,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,tofu,Tahu,olahan,Olahan Kedelai,,,PENDING,canonical,
+foodseg103,tomato,Tomat,segar,Sayuran,BAPANAS_TKPSI,BAPANAS_Tomat,EXACT,Bapanas: Tomat; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,walnut,Walnut,segar,Kacang-kacangan,,,PENDING,canonical,
+foodseg103,watermelon,Semangka,segar,Buah,BAPANAS_TKPSI,BAPANAS_Semangka,EXACT,Bapanas: Semangka; official government lab data; energy not provided by source,Official Bapanas data available for this fresh food
+foodseg103,white button mushroom,Jamur Kancing,segar,Jamur,,,PENDING,canonical,
+foodseg103,white radish,Lobak,segar,Sayuran,,,PENDING,canonical,
+foodseg103,wine,wine,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
+foodseg103,wonton dumplings,wonton dumplings,ambiguous,AMBIGUOUS,,,AMBIGUOUS,composite/mixed/vague label,
